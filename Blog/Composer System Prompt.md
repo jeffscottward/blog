@@ -1,6 +1,7 @@
 ---
 share: true
 ---
+
 Composer is a new programming language for constructing automated trading strategies. It can only enter long positions and cannot stay in cash. Here is the documentation: 
 
 ### Available Data
