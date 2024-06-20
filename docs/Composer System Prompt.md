@@ -1,5 +1,13 @@
 ---
+title: Composer System Prompt
 share: true
+tags:
+  - code
+  - composer
+  - trading
+  - clojure
+  - prompt
+date: 2024-6-20
 ---
 
 Composer is a new programming language for constructing automated trading strategies. It can only enter long positions and cannot stay in cash. Here is the documentation: 
