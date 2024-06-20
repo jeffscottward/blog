@@ -1,5 +1,4 @@
 ---
-title: Composer System Prompt
 share: true
 tags:
   - code
